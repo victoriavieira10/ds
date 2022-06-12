@@ -1,170 +1,319 @@
-.1_2 { 
+.19_19 { 
 	overflow:hidden;
-}.e1_2 { 
+}.e19_19 { 
 	background-color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
-	width:1436px;
-	height:1257px;
+	width:1466px;
+	height:1139px;
 	position:absolute;
-}.e8_5 { 
+}.e19_20 { 
 	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
 	transform: rotate(0.27348149074525135deg);
 	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
-	width:1465.876220703125px;
-	height:30.054540634155273px;
+	width:1470.118896484375px;
+	height:40.54842758178711px;
 	position:absolute;
-	left:-14.8565673828125px;
-	top:221px;
-}.8_5 { 
+	left:-4.884521484375px;
+	top:216px;
+}.19_20 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e8_7 { 
-	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
-	width:63px;
-	height:26px;
-	position:absolute;
-	left:113px;
-	top:220px;
-	font-family:Jacques Francois;
-	text-align:center;
-	font-size:20px;
-	letter-spacing:0;
-}.e16_3 { 
-	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
-	width:230px;
-	height:26px;
-	position:absolute;
-	left:581px;
-	top:224px;
-	font-family:Jacques Francois;
-	text-align:center;
-	font-size:20px;
-	letter-spacing:0;
-}.e16_4 { 
+}.e47_38 { 
 	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
 	width:214px;
 	height:21px;
 	position:absolute;
-	left:896px;
+	left:1200px;
 	top:227px;
 	font-family:Jacques Francois;
 	text-align:center;
 	font-size:20px;
 	letter-spacing:0;
-}.e16_7 { 
+}.e25_51 { 
 	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
-	width:182px;
-	height:30px;
+	width:230px;
+	height:26px;
 	position:absolute;
-	left:271px;
-	top:225px;
+	left:618px;
+	top:224px;
 	font-family:Jacques Francois;
 	text-align:center;
 	font-size:20px;
 	letter-spacing:0;
-}.e16_6 { 
-	width:863px;
-	height:983px;
-	position:absolute;
-	left:530px;
-	top:274px;
-	background-image:url(images/foto_de_modelo_1.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e16_11 { 
-	width:379px;
-	height:353px;
-	position:absolute;
-	left:506px;
-	top:-42px;
-	background-image:url(images/victoria_removebg_preview_1.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e16_12 { 
-	color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
-	width:531px;
-	height:328px;
-	position:absolute;
-	left:0px;
-	top:311px;
-	font-family:Bonheur Royale;
-	text-align:center;
-	font-size:64px;
-	letter-spacing:0;
-}.e16_15 { 
-	color:rgba(0, 0, 0, 1);
-	width:615px;
-	height:70px;
-	position:absolute;
-	left:-73px;
-	top:1149px;
-	font-family:Charm;
-	text-align:center;
-	font-size:15px;
-	letter-spacing:0;
-}.e16_14 { 
-	color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
-	width:469px;
-	height:323px;
-	position:absolute;
-	left:37px;
-	top:317px;
-	font-family:Charm;
-	text-align:center;
-	font-size:48px;
-	letter-spacing:0;
-}.e19_17 { 
-	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
-	width:249px;
-	height:68px;
-	position:absolute;
-	left:124px;
-	top:681px;
-}.e47_5 { 
-	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
-	width:249px;
-	height:68px;
-	position:absolute;
-	left:124px;
-	top:814px;
-}.e19_18 { 
-	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
-	width:201px;
-	height:42px;
-	position:absolute;
-	left:148px;
-	top:698px;
-	font-family:Jacques Francois;
-	text-align:center;
-	font-size:20px;
-	letter-spacing:0;
-}.e47_8 { 
-	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
-	width:201px;
-	height:42px;
-	position:absolute;
-	left:148px;
-	top:698px;
-	font-family:Jacques Francois;
-	text-align:center;
-	font-size:20px;
-	letter-spacing:0;
-}.e47_6 { 
-	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
-	width:201px;
-	height:42px;
-	position:absolute;
-	left:148px;
-	top:833px;
-	font-family:Jacques Francois;
-	text-align:center;
-	font-size:20px;
-	letter-spacing:0;
-}.e47_39 { 
+}.e19_23 { 
 	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
 	width:214px;
 	height:21px;
 	position:absolute;
-	left:1179px;
-	top:225px;
+	left:924px;
+	top:224px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e19_24 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:182px;
+	height:30px;
+	position:absolute;
+	left:315px;
+	top:222px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e23_36 { 
+	width:224px;
+	height:282px;
+	position:absolute;
+	left:91px;
+	top:330px;
+	background-image:url(images/rectangle_4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e25_54 { 
+	width:241px;
+	height:271px;
+	position:absolute;
+	left:103px;
+	top:713px;
+	background-image:url(images/rectangle_8.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e23_37 { 
+	width:224px;
+	height:282px;
+	position:absolute;
+	left:435px;
+	top:323px;
+	background-image:url(images/rectangle_5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e25_55 { 
+	width:224px;
+	height:282px;
+	position:absolute;
+	left:443px;
+	top:705px;
+	background-image:url(images/rectangle_9.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e25_56 { 
+	width:224px;
+	height:282px;
+	position:absolute;
+	left:755px;
+	top:330px;
+	background-image:url(images/rectangle_10.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e25_57 { 
+	width:224px;
+	height:282px;
+	position:absolute;
+	left:766px;
+	top:705px;
+	background-image:url(images/rectangle_11.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e25_53 { 
+	width:224px;
+	height:282px;
+	position:absolute;
+	left:1088px;
+	top:330px;
+	background-image:url(images/rectangle_7.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e25_58 { 
+	width:224px;
+	height:282px;
+	position:absolute;
+	left:1088px;
+	top:708px;
+	background-image:url(images/rectangle_12.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e25_49 { 
+	width:379px;
+	height:364px;
+	position:absolute;
+	left:519px;
+	top:-59px;
+	background-image:url(images/victoria_removebg_preview_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e25_70 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:63px;
+	height:26px;
+	position:absolute;
+	left:130px;
+	top:222px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e25_73 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:199px;
+	height:47px;
+	position:absolute;
+	left:438px;
+	top:629px;
+}.25_73 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e25_80 { 
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:199px;
+	height:47px;
+	position:absolute;
+	left:103px;
+	top:628px;
+}.e25_83 { 
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:199px;
+	height:47px;
+	position:absolute;
+	left:124px;
+	top:1012px;
+}.e25_84 { 
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:199px;
+	height:47px;
+	position:absolute;
+	left:460px;
+	top:1012px;
+}.e25_85 { 
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:199px;
+	height:47px;
+	position:absolute;
+	left:783px;
+	top:1005px;
+}.e25_86 { 
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:199px;
+	height:47px;
+	position:absolute;
+	left:1100px;
+	top:1005px;
+}.e25_81 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:199px;
+	height:47px;
+	position:absolute;
+	left:773px;
+	top:628px;
+}.e25_82 { 
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:199px;
+	height:47px;
+	position:absolute;
+	left:1113px;
+	top:629px;
+}.e25_87 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:171px;
+	height:38px;
+	position:absolute;
+	left:117px;
+	top:637px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e25_95 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:171px;
+	height:38px;
+	position:absolute;
+	left:141px;
+	top:1021px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e25_105 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:171px;
+	height:38px;
+	position:absolute;
+	left:797px;
+	top:1016px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e25_103 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:171px;
+	height:38px;
+	position:absolute;
+	left:483px;
+	top:1022px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e25_98 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:171px;
+	height:26px;
+	position:absolute;
+	left:1114px;
+	top:1022px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e25_89 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:171px;
+	height:38px;
+	position:absolute;
+	left:455px;
+	top:638px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e25_92 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:171px;
+	height:38px;
+	position:absolute;
+	left:786px;
+	top:635px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e25_94 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:171px;
+	height:38px;
+	position:absolute;
+	left:1122px;
+	top:634px;
+	font-family:Jacques Francois;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e47_3 { 
+	background-color:rgba(50.000000819563866, 50.000000819563866, 50.000000819563866, 1);
+	width:124px;
+	height:38px;
+	position:absolute;
+	left:668px;
+	top:1087px;
+}.e47_4 { 
+	color:rgba(245.00000059604645, 245.00000059604645, 245.00000059604645, 1);
+	width:201px;
+	height:42px;
+	position:absolute;
+	left:626px;
+	top:1093px;
 	font-family:Jacques Francois;
 	text-align:center;
 	font-size:20px;
